@@ -1,0 +1,6 @@
+{
+  "name": "EM-Corridor Companion",
+  "description": "Intelligent emergency corridor navigation, automated traffic signal stoppage logging, and life-safety KPI analytics for ambulances, hospital dispatchers, and city traffic authorities.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
